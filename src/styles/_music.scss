@@ -1,0 +1,14 @@
+.music-container {
+  min-height: 55vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  img {
+    width: 20%;
+    border-radius: 50%;
+  }
+  h1 {
+    margin: 1.5rem;
+  }
+}
