@@ -1,0 +1,16 @@
+.header {
+  min-height: 11vh;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  button {
+    padding: 0.7rem 1.3rem;
+    border: none;
+    &:hover {
+      border: 3px solid #717171;
+      background-color: #333333;
+      color: #fff;
+    }
+  }
+}

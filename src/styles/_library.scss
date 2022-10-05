@@ -1,0 +1,11 @@
+.library {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  .music-library {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
